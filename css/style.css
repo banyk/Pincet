@@ -1465,7 +1465,7 @@ body.ie .ibg img {
 }
 .main__prlx-bg {
   position: absolute;
-  background-image: url("../../img/parallax.png");
+  background-image: url("../img/parallax.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
